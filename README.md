@@ -1,8 +1,8 @@
 # fullstackexample
 <html>
   <head>
-    <title>
-      My github page</title>
+    
+      My github page
   </head>
       <body>
         <h1> welcome to my website</h1>
